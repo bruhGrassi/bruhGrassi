@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have always been passionate about technology, but the majority of my life was dedicated to music. At the age of 30, there was a plot twist, and I embarked on the journey as a front-end developer. These are two worlds not so different, as good structures, creativity, dedication, and perseverance are necessary to create beautiful things and improve people's lives.
+
+In recent years, I have had the opportunity to work at a software house and a compliance company. Meeting the trust placed in me, I successfully delivered significant projects for large corporations.
+
+I hold great respect for my team and value a light and secure working environment. As innovation is always in fast-paced motion, learning and growth must be continuous. I am immensely grateful to the tech community for always being willing to share and help.
